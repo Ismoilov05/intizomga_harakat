@@ -1,5 +1,7 @@
+PIP_NO_BUILD_ISOLATION=1
+
+
 aiogram==3.2.0
-pydantic==2.5.3
-pydantic-core==2.14.6
-APScheduler==3.10.4
-matplotlib==3.8.4
+pydantic==1.10.15
+python-dotenv
+apscheduler
