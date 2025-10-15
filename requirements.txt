@@ -1,4 +1,4 @@
-PIP_NO_BUILD_ISOLATION=1
+
 
 
 aiogram==3.2.0
