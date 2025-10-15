@@ -1,3 +1,2 @@
-aiogram==3.4.1
-apscheduler==3.10.4
-matplotlib
+aiogram==3.3.0
+matplotlib==3.9.2
