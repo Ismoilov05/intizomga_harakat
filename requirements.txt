@@ -1,4 +1,6 @@
-aiogram==3.3.0
-pydantic==2.5.3
-apscheduler==3.10.4
-python-dotenv==1.0.1
+aiogram==3.2.0
+pydantic>=2.4.1
+matplotlib
+python-dotenv
+apscheduler
+aiocron
